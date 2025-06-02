@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-API_KEY = "AIzaSyAZHy37GX8WZJLRdz1GEpERNfKBDZMfT2g" 
+API_KEY = "Enter Your Google AI Studio Gemini API Key Here" 
 Exits_Massages = {"Exit", "Quit", "exit", "quit", "Khrooj", "Tamam", "خروج"}
 
 genai.configure(api_key=API_KEY)
